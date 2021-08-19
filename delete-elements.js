@@ -5,4 +5,4 @@ console.log(notas);
 
 let quantidadeDeNotas =  notas.length
 let media = (notas[0] + notas[1] + notas[2] + notas[3]) / quantidadeDeNotas
-console.log(media);
+console.log(`A média é ${media}`);
